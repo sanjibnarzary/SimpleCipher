@@ -35,3 +35,10 @@ var d =c.decrypt(o,5);
 log(o);
 log(d);
 ```
+
+Save it and type the following in the terminal to run it
+```
+$node example.js
+```
+
+##Thats it
