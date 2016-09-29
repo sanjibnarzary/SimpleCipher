@@ -1,0 +1,24 @@
+{
+  "name": "simple-cipher",
+  "version": "0.0.1",
+  "description": "A nodejs implemetation of some of basic cryptographical concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjibnarzary/SimpleCipher.git"
+  },
+  "keywords": [
+    "nodejs",
+    "caesar",
+    "hill-cipher"
+  ],
+  "author": "Sanjib Narzary <san@cit.ac.in> (http://www.gitspot.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sanjibnarzary/SimpleCipher/issues"
+  },
+  "homepage": "https://github.com/sanjibnarzary/SimpleCipher#readme"
+}
